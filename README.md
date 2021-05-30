@@ -1,6 +1,7 @@
 # Age Calculator App
 
 This is my first flutter application project .it's very simple project . Created in may 2020.
+App idea is calculationg user age and tell the user the remaining period is on his birthday.
 
 ![1111](https://user-images.githubusercontent.com/61941216/116162839-e2131880-a6f6-11eb-8b86-88d1b2fa373b.jpg)
 
